@@ -1,0 +1,278 @@
+﻿{
+    "student": [
+        {
+            "country": "Armenia",
+            "numberOfStudent": "1",
+            "lat": "40.0691",
+            "long": "45.0382",
+            "flag": "https://disease.sh/assets/img/flags/am.png",
+            "total": "6104"
+        },
+        {
+            "country": "Australia",
+            "numberOfStudent": "1752",
+            "lat": "-25.2744",
+            "long": "133.7751",
+            "flag": "https://disease.sh/assets/img/flags/au.png"
+        },
+        {
+            "country": "Austria",
+            "numberOfStudent": "4",
+            "lat": "47.5162",
+            "long": "14.5501",
+            "flag": "https://disease.sh/assets/img/flags/at.png"
+        },
+        {
+            "country": "Azerbaijan",
+            "numberOfStudent": "1",
+            "lat": "40.1431",
+            "long": "47.5769",
+            "flag": "https://disease.sh/assets/img/flags/az.png"
+        },
+        {
+            "country": "Bangladesh",
+            "numberOfStudent": "147",
+            "lat": "23.685",
+            "long": "90.3563",
+            "flag": "https://disease.sh/assets/img/flags/bd.png"
+        },
+        {
+            "country": "Brazil",
+            "numberOfStudent": "1",
+            "lat": "-14.235",
+            "long": "-51.9253",
+            "flag": "https://disease.sh/assets/img/flags/br.png"
+        },
+        {
+            "country": "Bulgaria",
+            "numberOfStudent": "1",
+            "lat": "42.7339",
+            "long": "25.4858",
+            "flag": "https://disease.sh/assets/img/flags/bg.png"
+        },
+        {
+            "country": "Canada",
+            "numberOfStudent": "74",
+            "lat": "56.1304",
+            "long": "-106.3468",
+            "flag": "https://disease.sh/assets/img/flags/ca.png"
+        },
+        {
+            "country": "China",
+            "numberOfStudent": "5",
+            "lat": "35.8617",
+            "long": "104.1954",
+            "flag": "https://disease.sh/assets/img/flags/cn.png"
+        },
+        {
+            "country": "Costa Rica",
+            "numberOfStudent": "1",
+            "lat": "9.7489",
+            "long": "-83.7534",
+            "flag": "https://disease.sh/assets/img/flags/cr.png"
+        },
+        {
+            "country": "Cuba",
+            "numberOfStudent": "9",
+            "lat": "21.5218",
+            "long": "-77.7812",
+            "flag": "https://disease.sh/assets/img/flags/cu.png"
+        },
+        {
+            "country": "Czech Republic",
+            "numberOfStudent": "4",
+            "lat": "49.8175",
+            "long": "15.473",
+            "flag": "https://disease.sh/assets/img/flags/cz.png"
+        },
+        {
+            "country": "Estonia",
+            "numberOfStudent": "2",
+            "lat": "58.5953",
+            "long": "25.0136",
+            "flag": "https://disease.sh/assets/img/flags/ee.png"
+        },
+        {
+            "country": "France",
+            "numberOfStudent": "6",
+            "lat": "46.2276",
+            "long": "2.2137",
+            "flag": "https://disease.sh/assets/img/flags/fr.png"
+        },
+        {
+            "country": "Georgia",
+            "numberOfStudent": "1",
+            "lat": "42.3154",
+            "long": "43.3569",
+            "flag": "https://disease.sh/assets/img/flags/ge.png"
+        },
+        {
+            "country": "Germany ",
+            "numberOfStudent": "12",
+            "lat": "51.1657",
+            "long": "10.4515",
+            "flag": "https://disease.sh/assets/img/flags/de.png"
+        },
+        {
+            "country": "India",
+            "numberOfStudent": "3078",
+            "lat": "20.5937",
+            "long": "78.9629",
+            "flag": "https://disease.sh/assets/img/flags/in.png"
+        },
+        {
+            "country": "Indonesia",
+            "numberOfStudent": "1",
+            "lat": "-0.7893",
+            "long": "113.9213",
+            "flag": "https://disease.sh/assets/img/flags/id.png"
+        },
+        {
+            "country": "Italy",
+            "numberOfStudent": "4",
+            "lat": "41.8719",
+            "long": "12.5674",
+            "flag": "https://disease.sh/assets/img/flags/it.png"
+        },
+        {
+            "country": "Japan",
+            "numberOfStudent": "39",
+            "lat": "36.2048",
+            "long": "138.2529",
+            "flag": "https://disease.sh/assets/img/flags/jp.png"
+        },
+        {
+            "country": "Lithuania",
+            "numberOfStudent": "2",
+            "lat": "55.1694",
+            "long": "23.8813",
+            "flag": "https://disease.sh/assets/img/flags/lt.png"
+        },
+        {
+            "country": "Malaysia",
+            "numberOfStudent": "59",
+            "lat": "4.2105",
+            "long": "101.9758",
+            "flag": "https://disease.sh/assets/img/flags/my.png"
+        },
+        {
+            "country": "Maldives",
+            "numberOfStudent": "2",
+            "lat": "3.2028",
+            "long": "73.2207",
+            "flag": "https://disease.sh/assets/img/flags/mv.png"
+        },
+        {
+            "country": "Nepal",
+            "numberOfStudent": "2",
+            "lat": "28.3949",
+            "long": "84.124",
+            "flag": "https://disease.sh/assets/img/flags/np.png"
+        },
+        {
+            "country": "Netherland",
+            "numberOfStudent": "14",
+            "lat": "52.1326",
+            "long": "5.2913",
+            "flag": "https://disease.sh/assets/img/flags/nl.png"
+        },
+        {
+            "country": "New Zealand",
+            "numberOfStudent": "8",
+            "lat": "-40.9006",
+            "long": "174.886",
+            "flag": "https://disease.sh/assets/img/flags/nz.png"
+        },
+        {
+            "country": "Norway",
+            "numberOfStudent": "3",
+            "lat": "60.472",
+            "long": "8.4689",
+            "flag": "https://disease.sh/assets/img/flags/no.png"
+        },
+        {
+            "country": "Pakistan",
+            "numberOfStudent": "1",
+            "lat": "30.3753",
+            "long": "69.3451",
+            "flag": "https://disease.sh/assets/img/flags/pk.png"
+        },
+        {
+            "country": "Philippines",
+            "numberOfStudent": "7",
+            "lat": "12.8797",
+            "long": "121.774",
+            "flag": "https://disease.sh/assets/img/flags/ph.png"
+        },
+        {
+            "country": "Poland",
+            "numberOfStudent": "8",
+            "lat": "51.9194",
+            "long": "19.1451",
+            "flag": "https://disease.sh/assets/img/flags/pl.png"
+        },
+        {
+            "country": "Singapore",
+            "numberOfStudent": "32",
+            "lat": "1.3521",
+            "long": "103.8198",
+            "flag": "https://disease.sh/assets/img/flags/sg.png"
+        },
+        {
+            "country": "South Korea",
+            "numberOfStudent": "6",
+            "lat": "35.9078",
+            "long": "127.7669",
+            "flag": "https://disease.sh/assets/img/flags/kr.png"
+        },
+        {
+            "country": "Spain",
+            "numberOfStudent": "4",
+            "lat": "40.4637",
+            "long": "-3.7492",
+            "flag": "https://disease.sh/assets/img/flags/es.png"
+        },
+        {
+            "country": "Sri Lanka",
+            "numberOfStudent": "233",
+            "lat": "7.8731",
+            "long": "80.7718",
+            "flag": "https://disease.sh/assets/img/flags/lk.png"
+        },
+        {
+            "country": "Sweden",
+            "numberOfStudent": "1",
+            "lat": "60.1282",
+            "long": "18.6435",
+            "flag": "https://disease.sh/assets/img/flags/se.png"
+        },
+        {
+            "country": "Swizerland",
+            "numberOfStudent": "9",
+            "lat": "46.8182",
+            "long": "8.2275",
+            "flag": "https://disease.sh/assets/img/flags/ch.png"
+        },
+        {
+            "country": "Thailand",
+            "numberOfStudent": "447",
+            "lat": "15.87",
+            "long": "100.9925",
+            "flag": "https://disease.sh/assets/img/flags/th.png"
+        },
+        {
+            "country": "UK",
+            "numberOfStudent": "30",
+            "lat": "55.3781",
+            "long": "-3.436",
+            "flag": "https://disease.sh/assets/img/flags/gb.png"
+        },
+        {
+            "country": "USA",
+            "numberOfStudent": "93",
+            "lat": "37.0902",
+            "long": "-95.7129",
+            "flag": "https://disease.sh/assets/img/flags/us.png"
+        }
+    ]
+}
